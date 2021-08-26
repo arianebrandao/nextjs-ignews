@@ -16,7 +16,6 @@ interface HomeProps {
     priceId: string,
     amount: number
   }
-
 }
 
 export default function Home({product}: HomeProps) {
