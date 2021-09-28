@@ -5,7 +5,7 @@ import { NextApiRequest, NextApiResponse } from 'next';
 // - Next Auth (Social)
 // - 3rd party (Cognito, Auth0)
 
-export default (request: NextApiRequest, response: NextApiResponse) => {
+const usersIndex = (request: NextApiRequest, response: NextApiResponse) => {
   const users = [
     { id: 1, name: 'Ariane' },
     { id: 2, name: 'Phoebe' },
@@ -14,3 +14,5 @@ export default (request: NextApiRequest, response: NextApiResponse) => {
 
   return response.json(users);
 }
+
+export default usersIndex;
