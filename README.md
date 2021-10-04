@@ -1,5 +1,9 @@
+<p align="center">
+  <img alt="ignews app" src=".github/app.png" width="100%">
+</p>
+
 ## ignews
-Um blog com assinatura mensal para acessar suas publicações na íntegra. É mais um projeto desenvolvido durante minha jornada no Ignite, da Rocketseat.
+Um blog com assinatura mensal para acessar suas publicações na íntegra. É mais um projeto desenvolvido durante minha jornada no [Ignite](https://www.rocketseat.com.br/ignite), da Rocketseat.
 
 ## Tecnologias
 
