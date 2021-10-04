@@ -1,21 +1,21 @@
-## ab.money
-App que auxilia no controle financeiro, para cadastrar lucros/despesas.
-
-## App online
-Link para essa aplicação: [reactjs-ab-money.vercel.app](https://reactjs-ab-money.vercel.app)
+## ignews
+Um blog com assinatura mensal para acessar suas publicações na íntegra. É mais um projeto desenvolvido durante minha jornada no Ignite, da Rocketseat.
 
 ## Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- [React](https://reactjs.org)
+- [NextJS](https://nextjs.org)
 - [TypeScript](https://www.typescriptlang.org/)
-- [Axios](https://axios-http.com)
-- [MirageJs](https://miragejs.com)
+- [Fauna](https://fauna.com)
+- [Prismic](https://prismic.io)
+- [Stripe](https://www.stripe.com)
+
+Esse é um sistema completo, que utiliza login social da conta Github, armazena os dados da conta no banco de dados do Fauna, processa pagamento recorrente pelo Stripe e utiliza o headless CMS Prismic para os posts do blog.
 
 ## Layout
 
-Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/0xmu9mj2TJYoIOubBFWsk5/dtmoney-Ignite-(Copy)). É necessário ter conta no [Figma](http://figma.com/) para acessá-lo.
+Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/gl0fHkQgvaUfXNjuwGtDDs/ig.news/duplicate). É necessário ter conta no [Figma](http://figma.com/) para acessá-lo.
 
 ## Como executar
 
