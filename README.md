@@ -21,6 +21,12 @@ Esse é um sistema completo, que utiliza login social da conta Github, armazena 
 
 Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/gl0fHkQgvaUfXNjuwGtDDs/ig.news/duplicate). É necessário ter conta no [Figma](http://figma.com/) para acessá-lo.
 
+## Testes unitários
+
+Essa aplicação possui testes unitários, desenvolvidos durante a aula de Testes Unitários do Ignite.
+
+Rode os testes com `yarn test`.
+
 ## Como executar
 
 - Clone o repositório
