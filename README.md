@@ -3,7 +3,7 @@
 </p>
 
 ## ignews
-Um blog com assinatura mensal para acessar suas publicações na íntegra. É mais um projeto desenvolvido durante minha jornada no [Ignite](https://www.rocketseat.com.br/ignite), da Rocketseat.
+Um blog com assinatura mensal para acessar suas publicações na íntegra. Utiliza login social da conta Github, armazena os dados da conta no banco de dados do FaunaDB (depreciado), processa pagamento recorrente pelo Stripe e utiliza o headless CMS Prismic para os posts do blog.
 
 ## Tecnologias
 
@@ -11,11 +11,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [NextJS](https://nextjs.org)
 - [TypeScript](https://www.typescriptlang.org/)
-- [Fauna](https://fauna.com)
+- Fauna (depreciado)
 - [Prismic](https://prismic.io)
 - [Stripe](https://www.stripe.com)
-
-Esse é um sistema completo, que utiliza login social da conta Github, armazena os dados da conta no banco de dados do Fauna, processa pagamento recorrente pelo Stripe e utiliza o headless CMS Prismic para os posts do blog.
 
 ## Layout
 
